@@ -46,5 +46,5 @@ puppeteer
       }))
     ])
 
-    return require('jest-cli/bin/jest.js')
+    return require('jest/bin/jest.js')
   })
